@@ -1,0 +1,3 @@
+
+make
+nohup ./build/main &
